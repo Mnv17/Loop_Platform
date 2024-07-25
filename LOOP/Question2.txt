@@ -1,0 +1,19 @@
+Question 2: Restricting Billing
+Subject: Billing All Week Orders on Friday Only
+
+Body:
+
+Hi,
+
+To bill all customers on Friday every week using Loop by Shopify, please follow these steps:
+
+Set Billing Cycle:
+
+In your Loop app, navigate to the billing settings section. Configure the billing cycle to process all payments on Fridays. This ensures that all customer payments are consolidated and processed on the specified day each week.
+Configure Subscription Plans:
+
+Make sure all your subscription plans are set to align with the Friday billing cycle. You can do this by editing each subscription plan and selecting Friday as the billing day.
+If you need any further assistance or run into any issues, please don't hesitate to contact us.
+
+Best regards,
+Manav Verma

@@ -1,0 +1,32 @@
+Question 1: Rotating Meal Menu
+Subject: Offer Weekly Rotating Meal Menu to Subscribers
+
+Body:
+
+Hello,
+
+To help you offer a weekly rotating meal menu to your subscribers, please follow these steps using Loop by Shopify:
+
+Box Options:
+
+Create subscription plans for "Box of 6 meals" and "Box of 12 meals" within the Loop app. This can be done by navigating to the subscription plans section and setting up the desired options.
+Meal Categorization:
+
+Categorize your meal catalogue into Breakfast, Lunch, Dinner, Desserts, and Beverages by organizing your products in the Loop app. You can create different collections for each category and assign the meals accordingly.
+Weekly Delivery Only:
+
+Ensure that your subscription plans are configured to allow only weekly deliveries. In the Loop app, go to the subscription settings and select the weekly delivery frequency option.
+Promote Diversity in Meals:
+
+To prevent customers from adding multiple quantities of the same product, you can set product limits. This can be done in the Loop app by configuring the subscription rules to limit the quantity of each meal type per box.
+Weekly Menu Update:
+
+Update your menu every Friday night by using the bulk action feature in the Loop app. Go to the product management section, select the products you want to replace, and use the bulk action tool to update them.
+Like-to-Like Product Replacement:
+
+Automate the replacement of products for existing subscribers with their like-to-like substitutes by using Loop’s scheduling feature. Set up a schedule to replace products every Friday night with their respective substitutes.
+If you need further assistance, feel free to reach out.
+
+Best regards,
+Manav Verma
+
